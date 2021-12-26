@@ -1062,7 +1062,7 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D20Z7PN5W</string>
+			<string></string>
 			<key>SystemUUID</key>
 			<string>75F223A1-E1F5-53F2-80BE-8BB154E0B17E</string>
 		</dict>
@@ -1110,7 +1110,7 @@
 			JxyOY6kJ
 			</data>
 			<key>SystemSerialNumber</key>
-			<string>C02D20Z7PN5W</string>
+			<string>C</string>
 			<key>SystemUUID</key>
 			<string>23B7E7FB-8742-4F95-B649-6E46988B2D1E</string>
 		</dict>
